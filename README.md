@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning Java | PHP | HTML | CSS
 
-- 👯 I’m looking to collaborate on UI/UX Design
-
 - 💬 Ask me about Adobe Ps | HTML
 
 - 📫 How to reach me *chithrakanayana99@gmail.com*
