@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BupendraDhyan&label=Profile%20views&color=0e75b6&style=flat" alt="BupendraDhyan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chithraka99&label=Profile%20views&color=0e75b6&style=flat" alt="chithraka99" /> </p>
 
 
 - 🔭 I’m currently working on C++ | HTML | PHP | Adobe Ps | Adobe Ai
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chithraka-wijegunawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bupendra-wijegunawardhana-16b155229/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/chithraka.dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015364205313" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chithraka_99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bupendra2000/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chithraka-wijegunawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chithraka-wijegunawardhana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chithraka.dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chithraka.dias" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chithraka_99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chithraka_99/" height="30" width="40" /></a>
   
 </p>
 
