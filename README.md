@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chithraka99&" alt="chithraka" /></p>
 
-
+[![An image of @chithraka99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chithraka99)](https://holopin.io/@chithraka99)
