@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on C++ | HTML | PHP | Adobe Ps | Adobe Ai
 
-- 🌱 I’m currently learning Java | PHP | HTML | CSS
-
-- 💬 Ask me about Adobe Ps | HTML
+- 🌱 I’m currently learning Java | PHP | HTML | CSS | Next.JS
 
 - 📫 How to reach me *chithrakanayana99@gmail.com*
 
